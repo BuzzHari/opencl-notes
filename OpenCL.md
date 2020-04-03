@@ -1,4 +1,4 @@
-[[#]] OpenCL 1.2
+# OpenCL 1.2
 
 Notes on youtube video lecture by AJ Guilon.
 
