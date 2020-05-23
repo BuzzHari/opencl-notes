@@ -42,6 +42,7 @@ Notes on youtube video lecture by AJ Guilon.
         * Read-only memory.
         * Very efficient way to share data with all devices PEs.
         * Not persistent.
+        * Test. 
     * Local Memory (in CUs):
         * Shared with all PEs in a CU.
         * Very efficient way to share data with all CU PEs.
